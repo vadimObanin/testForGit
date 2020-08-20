@@ -1,3 +1,3 @@
 function foo() {
-    let f = 90;
+    let f = 8989;
 }
