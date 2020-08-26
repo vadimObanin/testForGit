@@ -1,8 +1,4 @@
 
- * @param {*[]} sortedArray
- * @param {*} seekElement
- * @param {function(a, b)} [comparatorCallback]
-
 
     // Calculate optimal jump size.
     // Total number of comparisons in the worst case will be ((arraySize/jumpSize) + jumpSize - 1).
